@@ -12,8 +12,6 @@
     <uk.co.senab.photoview.PhotoView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scaleType="fitXY"
-        android:adjustViewBounds="true"
         android:id="@+id/mapView" />
 
     <android.support.design.widget.FloatingActionButton
